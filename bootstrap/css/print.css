@@ -1,0 +1,14 @@
+@page{
+    saiz:A4;
+    magin: 0;
+}
+
+#print{
+    display: none;
+    visibility: none;
+}
+
+#none{
+    display: none;
+}
+
