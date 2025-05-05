@@ -1,11 +1,3 @@
-Project ที่เกี่ยบกับ เว็บไซต์ขายของ 
-<ul>
-  
-<li> ภาษาที่ใช้ในการเขียน : Html , CSS , JS , PHP , Sql </li>
-<li> โดยใช้ Framework : Bootstrap 5 </li>
-<li> โปรแกรมที่เก็บระบบฐานข้อมูลต่างๆ : Xampp - ข้อมูลอยู่ใน Forlder ที่ชื่อว่า .../database </li>
-<b>เอกสาร ---> https://drive.google.com/file/d/1Tm4uYNctBhrvLFlfrBnFGAgst82dwxsC/view?usp=sharing 
-
 Project ที่เกี่ยบกับ เว็บไซต์ขายของ
 
 -   ภาษาที่ใช้ในการเขียน : Html , CSS , JS , PHP , Sql
@@ -22,5 +14,3 @@ Project ที่เกี่ยบกับ เว็บไซต์ขาย�
 
 ![enter image description here](https://media-hosting.imagekit.io/a8a9ad76a76a4b82/Screenshot%202025-05-05%20154634.png?Expires=1841043080&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=dIjrpxRHjFffTreoNo3-GkqQczdZY5u-It1pB5KwLJ0Eb2ilrEH6Z~57NDtT-qvLH-fRuFMLkO0Yt1YGgaJhY9YXjm4XIucbnipMpTxENjJrLaVEFjzy~qvdhOdMBXfiHJAoN-nElrTuA5eG5eiR16m1LOlkKnZRWzNcOcbkpoeCSnjkKxpfu51ohI0hGpREkLA1sxVdQGsmXCVddjzyc5U5~0uTxNXAdwqfJNBu6JXv69ajSYSSPZxmtLcW5sGdszdDJNoUmkRlqIk4fefGUSoxWT8yTBSC6C7TqcowltCERbl8kQLhrq7YOG4QEsswVDk7Bq4dWi2b9G9TJy8XkQ__)
 ![enter image description here](https://media-hosting.imagekit.io/029720f3582f402c/Screenshot%202025-05-05%20154702.png?Expires=1841043080&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=vNjdqypq36uxI1zkkXHja7kTd3lKn1BjCUBXeyLoyHy2k7rs1sPCez6-97tSnQ1u~YPvsQxqbmJWmv-c3Iw6wE94V536oiqayI6NcITVjGwHjoQQQ3q01pwV1ulagArxPftwPZAvfK9pm1eENDHzkQIuTTDawqudYEbQv~ZUafKkMgC1GRi5iShufBVNN1cCaUyGvzVZXrQoMTf~G6f4nqc025mWV3qEnTc57vo3zEtZDptUlfWOqVrbT9LqoaL4TjkwXlHCbGGoCzrndUBTLSpsYiDV4~~1aKUcC5THcWyLR4B7q5yhjVE8vUvksWwkE1IkgfiEPPD5xOndos2XTg__)
-
-</ul>
